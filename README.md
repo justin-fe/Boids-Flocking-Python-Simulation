@@ -4,9 +4,9 @@
 This Python simulation models flocking behavior with predator-prey dynamics using object-oriented programming. Each agent follows simple rules for **cohesion**, **alignment**, and **separation**, resulting in realistic group movement. The project demonstrates computational modeling, algorithms, and interactive visualization.
 
 **Technologies Used**  
-- Python 3  
+- Python
 - Object-Oriented Programming (OOP)  
-- Matplotlib / Pygame (for visualization)
+- Matplotlib (for visualization)
 
 **Features**  
 - Simulates multiple agents (“boids”) interacting in real-time.  
